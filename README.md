@@ -21,7 +21,7 @@ Esse projeto é a parte visual de uma aplicação para guardar, mostrar, editar 
 
 ## :memo: Sobre
 
-Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://www.rocketseat.com.br/explorer), os [detalhes estão aqui](https://efficient-sloth-d85.notion.site/Front-end-da-aplica-o-30a5132b30534255b238a8aa1b48c963), essa aplicação é o frontend de um sistema que faz o cadastro de usuários, e permite que esses usuários cadastrem, visualizem, editem e excluam anotações de filmes em uma [API RESTful.](https://github.com/devgustavosantos/rocketmovies-backend)
+Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://www.rocketseat.com.br/explorer), os [detalhes estão aqui](https://efficient-sloth-d85.notion.site/Front-end-da-aplica-o-30a5132b30534255b238a8aa1b48c963), essa aplicação é o frontend de um sistema que faz o cadastro de usuários, e permite que esses usuários cadastrem, visualizem, editem e excluam anotações de filmes em uma [API RESTful.](https://github.com/Rennangmacarini/Rocket-Movies-API)
 
 </br>
 
@@ -55,7 +55,7 @@ Este é um dos projetos propostos no programa [Explorer da Rocketseat](https://w
 - Comece clonando o projeto:
 
 ```bash
-  $ git clone https://github.com/devgustavosantos/rocketmovies-frontend.git
+  $ git clone https://github.com/Rennangmacarini/Rocket-Movies-Front.git
 ```
 
 - Entre no diretório:
